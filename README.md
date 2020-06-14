@@ -5,6 +5,7 @@
 - [Red Blob Games](https://www.redblobgames.com/)
 - [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 - [2D Tilemap Collision](https://jonathanwhiting.com/tutorial/collision/)
+- [Collision Detection](http://jeffreythompson.org/collision-detection/line-line.php)
 - [Lou's Pseudo 3d Page](http://www.extentofthejam.com/pseudo/)
 - [How to build a racing game](https://codeincomplete.com/posts/javascript-racer/)
 - [Mostly adequate guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
