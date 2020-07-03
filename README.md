@@ -13,6 +13,7 @@
 - [Learn Computer Graphcis From Scratch](https://www.scratchapixel.com/)
 - [DITHER.TXT](https://web.archive.org/web/20070927122512/http://www.efg2.com/Lab/Library/ImageProcessing/DHALF.TXT)
 - [Introduction to 3D wireframe rendering](https://www.kmjn.org/notes/3d_rendering_intro.html)
+- [learning how to write a 3D soft engine from scratch](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
 - [Raycasting](https://lodev.org/cgtutor/raycasting.html)
 - [2D Shadows](https://ncase.me/sight-and-light/)
 - [Game Development StackExchange](https://gamedev.stackexchange.com/)
