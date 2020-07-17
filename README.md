@@ -9,6 +9,7 @@
 - [Lou's Pseudo 3d Page](http://www.extentofthejam.com/pseudo/)
 - [How to build a racing game](https://codeincomplete.com/posts/javascript-racer/)
 - [Mostly adequate guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+- [Sigmoid curves in game design](https://medium.com/@pedro.camara/sigmoid-curves-are-game-designers-friends-8b1f5b53d2fc)
 - [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)
 - [Learn Computer Graphcis From Scratch](https://www.scratchapixel.com/)
 - [DITHER.TXT](https://web.archive.org/web/20070927122512/http://www.efg2.com/Lab/Library/ImageProcessing/DHALF.TXT)
