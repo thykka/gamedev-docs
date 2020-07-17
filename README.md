@@ -11,7 +11,7 @@
 - [Mostly adequate guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 - [Sigmoid curves in game design](https://medium.com/@pedro.camara/sigmoid-curves-are-game-designers-friends-8b1f5b53d2fc)
 - [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)
-- [Learn Computer Graphcis From Scratch](https://www.scratchapixel.com/)
+- [Learn Computer Graphics From Scratch](https://www.scratchapixel.com/)
 - [DITHER.TXT](https://web.archive.org/web/20070927122512/http://www.efg2.com/Lab/Library/ImageProcessing/DHALF.TXT)
 - [Introduction to 3D wireframe rendering](https://www.kmjn.org/notes/3d_rendering_intro.html)
 - [learning how to write a 3D soft engine from scratch](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
