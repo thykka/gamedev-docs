@@ -25,6 +25,7 @@
 - [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 
 ## Lua
+- [Lua-users wiki](http://lua-users.org/wiki/LuaDirectory)
 - [Learn Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
 - [Lua for Programmers](https://ebens.me/post/lua-for-programmers-part-1/)
 - [Programming in Lua](http://www.lua.org/pil/contents.html)
