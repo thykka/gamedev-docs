@@ -32,7 +32,7 @@
 ## Communities
 - [Fantasy Consoles (Discord)](https://discord.gg/yz5F2G3)
 - [Game Dev Bois (Discord)](https://discord.com/invite/sPJJHNR)
-- [#gamedev (IRC)](irc://chat.freenode.net:6697/#gamedev)
+- #gamedev (IRC) - irc://chat.freenode.net:6697/#gamedev
 - [Game Development StackExchange](https://gamedev.stackexchange.com/)
 
 
