@@ -29,6 +29,10 @@
 - [Lua for Programmers](https://ebens.me/post/lua-for-programmers-part-1/)
 - [Programming in Lua](http://www.lua.org/pil/contents.html)
 
+## Fantasy Consoles/Frameworks
+- [SCRIPT-8 (FOSS, JavaScript)](https://script-8.github.io)
+- [Pixel Vision 8 (Commercial, Lua)](https://www.pixelvision8.com)
+
 ## Communities
 - [Fantasy Consoles (Discord)](https://discord.gg/yz5F2G3)
 - [Game Dev Bois (Discord)](https://discord.com/invite/sPJJHNR)
