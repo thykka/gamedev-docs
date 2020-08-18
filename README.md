@@ -23,6 +23,7 @@
 - [Lou's Pseudo 3d Page](http://www.extentofthejam.com/pseudo/)
 - [Raycasting](https://lodev.org/cgtutor/raycasting.html)
 - [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
+- [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 
 ## Lua
 - [Lua-users wiki](http://lua-users.org/wiki/LuaDirectory)
