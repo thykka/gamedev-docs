@@ -13,6 +13,7 @@
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 - [Red Blob Games](https://www.redblobgames.com/)
 - [Mostly adequate guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html)
 
 ## Tutorials/Guides
 - [2D Shadows](https://ncase.me/sight-and-light/)
