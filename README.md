@@ -15,7 +15,7 @@
 - [Mostly adequate guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html)
 
-## Tutorials/Guides
+## Tutorials/Guides/Articles
 - [2D Shadows](https://ncase.me/sight-and-light/)
 - [2D Tilemap Collision](https://jonathanwhiting.com/tutorial/collision/)
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
@@ -25,6 +25,7 @@
 - [Raycasting](https://lodev.org/cgtutor/raycasting.html)
 - [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
+- [The Continuous World of Dungeon Siege](https://www.gamedevs.org/uploads/the-continuous-world-of-dungeon-siege.pdf)
 
 ## Lua
 - [Lua-users wiki](http://lua-users.org/wiki/LuaDirectory)
