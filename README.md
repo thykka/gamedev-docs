@@ -14,6 +14,7 @@
 - [Red Blob Games](https://www.redblobgames.com/)
 - [Mostly adequate guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html)
+- [Everything about Particle Effects](https://www.gamedevs.org/uploads/everything-about-particle-effects.pdf)
 
 ## Tutorials/Guides/Articles
 - [2D Shadows](https://ncase.me/sight-and-light/)
