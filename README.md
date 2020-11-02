@@ -34,10 +34,16 @@
 - [Learn Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
 - [Lua for Programmers](https://ebens.me/post/lua-for-programmers-part-1/)
 - [Programming in Lua](http://www.lua.org/pil/contents.html)
+- [Lua Pedia](https://lua.programmingpedia.net/)
 
 ## Fantasy Consoles/Frameworks
 - [SCRIPT-8 (FOSS, JavaScript)](https://script-8.github.io)
+- [PICO-8](https://www.lexaloffle.com/pico-8.php)
 - [Pixel Vision 8 (Commercial, Lua)](https://www.pixelvision8.com)
+
+## PICO-8
+- [Cheat sheet](https://www.lexaloffle.com/bbs/files/16585/PICO-8_Cheat-Sheet_0-9-2.png)
+- [PICO-ATE](https://www.pico-ate.com/)
 
 ## Communities
 - [Fantasy Consoles (Discord)](https://discord.gg/yz5F2G3)
