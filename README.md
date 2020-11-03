@@ -44,6 +44,7 @@
 ## PICO-8
 - [Cheat sheet](https://www.lexaloffle.com/bbs/files/16585/PICO-8_Cheat-Sheet_0-9-2.png)
 - [PICO-ATE](https://www.pico-ate.com/)
+- [Memory reference (pico-8 wiki)](https://pico-8.fandom.com/wiki/Memory)
 
 ## Communities
 - [Fantasy Consoles (Discord)](https://discord.gg/yz5F2G3)
