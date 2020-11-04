@@ -31,6 +31,7 @@
 
 ## Lua
 - [Lua-users wiki](http://lua-users.org/wiki/LuaDirectory)
+  - [Optimisation Tips](http://lua-users.org/wiki/OptimisationTips)
 - [Learn Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
 - [Lua for Programmers](https://ebens.me/post/lua-for-programmers-part-1/)
 - [Programming in Lua](http://www.lua.org/pil/contents.html)
