@@ -48,13 +48,6 @@
 - [PICO-ATE](https://www.pico-ate.com/)
 - [Memory reference (pico-8 wiki)](https://pico-8.fandom.com/wiki/Memory)
 
-## Communities
-- [Fantasy Consoles (Discord)](https://discord.gg/yz5F2G3)
-- [Game Dev Bois (Discord)](https://discord.com/invite/sPJJHNR)
-- #gamedev (IRC) - irc://chat.freenode.net:6697/#gamedev
-- [Game Development StackExchange](https://gamedev.stackexchange.com/)
-
-
 # Contributing
 
 If you think this list is missing a particular link, feel free to add it as an [issue](https://github.com/thykka/gamedev-docs/issues) or pull request.
