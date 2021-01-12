@@ -25,6 +25,7 @@
 - [How to build a racing game](https://codeincomplete.com/posts/javascript-racer/)
 - [Lou's Pseudo 3d Page](http://www.extentofthejam.com/pseudo/)
 - [Raycasting](https://lodev.org/cgtutor/raycasting.html)
+- [A first-person engine in 265 lines](https://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 - [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [The Continuous World of Dungeon Siege](https://www.gamedevs.org/uploads/the-continuous-world-of-dungeon-siege.pdf)
