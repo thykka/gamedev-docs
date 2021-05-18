@@ -31,6 +31,8 @@
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [The Continuous World of Dungeon Siege](https://www.gamedevs.org/uploads/the-continuous-world-of-dungeon-siege.pdf)
 - [Guerrilla Guide to Game Code](https://www.gamedevs.org/uploads/guerrilla-guide-to-game-code.pdf)
+- [Wang Tiles](http://www.cr31.co.uk/stagecast/wang/intro.html)
+- [Auto-tiling with corner bits](https://www.codeproject.com/articles/106884/implementing-auto-tiling-functionality-in-a-tile-m)
 
 ## Lua
 - [Lua-users wiki](http://lua-users.org/wiki/LuaDirectory)
