@@ -33,6 +33,7 @@
 - [Guerrilla Guide to Game Code](https://www.gamedevs.org/uploads/guerrilla-guide-to-game-code.pdf)
 - [Wang Tiles](http://www.cr31.co.uk/stagecast/wang/intro.html)
 - [Auto-tiling with corner bits](https://www.codeproject.com/articles/106884/implementing-auto-tiling-functionality-in-a-tile-m)
+- [Squares Made for Marching](https://www.omiod.com/docs/pdf/Squares-Made-for-Marching.pdf)
 
 ## Lua
 - [Lua-users wiki](http://lua-users.org/wiki/LuaDirectory)
