@@ -34,6 +34,7 @@
 - [Wang Tiles](http://www.cr31.co.uk/stagecast/wang/intro.html)
 - [Auto-tiling with corner bits](https://www.codeproject.com/articles/106884/implementing-auto-tiling-functionality-in-a-tile-m)
 - [Squares Made for Marching](https://www.omiod.com/docs/pdf/Squares-Made-for-Marching.pdf)
+- [Car Physics for Games](https://asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
 
 ## Lua
 - [Lua-users wiki](http://lua-users.org/wiki/LuaDirectory)
