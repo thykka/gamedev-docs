@@ -49,7 +49,7 @@
 ## Fantasy Consoles/Frameworks
 - [SCRIPT-8 (FOSS, JavaScript)](https://script-8.github.io)
 - [PICO-8](https://www.lexaloffle.com/pico-8.php)
-- [Pixel Vision 8 (Commercial, Lua)](https://www.pixelvision8.com)
+- [Pixel Vision 8 (Commercial, Lua)](https://pixelvision8.github.io/Website/)
 
 ## PICO-8
 - [Cheat sheet](https://www.lexaloffle.com/bbs/files/16585/PICO-8_Cheat-Sheet_0-9-2.png)
