@@ -18,6 +18,7 @@
 - [2D Collision detection for Pinball Game](https://gamedev.stackexchange.com/questions/43705/2d-collision-detection-for-pinball-game/43719#43719)
 - [ray marching ASCII graphics](https://ch-st.de/its-ray-marching-march/)
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/)
+- [Generating Names Phonetically](https://www.flipcode.com/archives/Generating_Names_Phonetically.shtml)
 
 ## Tutorials/Guides/Articles
 - [2D Shadows](https://ncase.me/sight-and-light/)
