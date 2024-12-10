@@ -13,7 +13,7 @@
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 - [Red Blob Games](https://www.redblobgames.com/)
 - [Mostly adequate guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
-- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html)
+- [Structure and Interpretation of Computer Programs](https://web.archive.org/web/20220520173139/https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html)
 - [Everything about Particle Effects](https://www.gamedevs.org/uploads/everything-about-particle-effects.pdf)
 - [2D Collision detection for Pinball Game](https://gamedev.stackexchange.com/questions/43705/2d-collision-detection-for-pinball-game/43719#43719)
 - [ray marching ASCII graphics](https://ch-st.de/its-ray-marching-march/)
@@ -33,7 +33,7 @@
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [The Continuous World of Dungeon Siege](https://www.gamedevs.org/uploads/the-continuous-world-of-dungeon-siege.pdf)
 - [Guerrilla Guide to Game Code](https://www.gamedevs.org/uploads/guerrilla-guide-to-game-code.pdf)
-- [Wang Tiles](http://www.cr31.co.uk/stagecast/wang/intro.html)
+- [Wang Tiles](https://web.archive.org/web/20231111191627/http://www.cr31.co.uk/stagecast/wang/intro.html)
 - [Auto-tiling with corner bits](https://www.codeproject.com/articles/106884/implementing-auto-tiling-functionality-in-a-tile-m)
 - [Squares Made for Marching](https://www.omiod.com/docs/pdf/Squares-Made-for-Marching.pdf)
 - [Car Physics for Games](https://asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
@@ -43,9 +43,8 @@
 - [Lua-users wiki](http://lua-users.org/wiki/LuaDirectory)
   - [Optimisation Tips](http://lua-users.org/wiki/OptimisationTips)
 - [Learn Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
-- [Lua for Programmers](https://ebens.me/post/lua-for-programmers-part-1/)
+- [Lua for Programmers](https://web.archive.org/web/20231127165612/https://ebens.me/post/lua-for-programmers-part-1/)
 - [Programming in Lua](http://www.lua.org/pil/contents.html)
-- [Lua Pedia](https://lua.programmingpedia.net/)
 
 ## Fantasy Consoles/Frameworks
 - [SCRIPT-8 (FOSS, JavaScript)](https://script-8.github.io)
@@ -54,7 +53,7 @@
 
 ## PICO-8
 - [Cheat sheet](https://www.lexaloffle.com/bbs/files/16585/PICO-8_Cheat-Sheet_0-9-2.png)
-- [PICO-ATE](https://www.pico-ate.com/)
+- [PICO-ATE](https://web.archive.org/web/20230708160551/https://www.pico-ate.com/)
 - [Memory reference (pico-8 wiki)](https://pico-8.fandom.com/wiki/Memory)
 
 # Contributing
