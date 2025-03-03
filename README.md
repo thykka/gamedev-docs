@@ -19,6 +19,7 @@
 - [ray marching ASCII graphics](https://ch-st.de/its-ray-marching-march/)
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/)
 - [Generating Names Phonetically](https://www.flipcode.com/archives/Generating_Names_Phonetically.shtml)
+- [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/)
 
 ## Tutorials/Guides/Articles
 - [2D Shadows](https://ncase.me/sight-and-light/)
