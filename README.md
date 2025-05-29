@@ -25,7 +25,7 @@
 - [2D Shadows](https://ncase.me/sight-and-light/)
 - [2D Tilemap Collision](https://jonathanwhiting.com/tutorial/collision/)
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
-- [Collision Detection](http://jeffreythompson.org/collision-detection/line-line.php)
+- [Collision Detection](https://jeffreythompson.org/collision-detection/table_of_contents.php)
 - [How to build a racing game](https://codeincomplete.com/posts/javascript-racer/)
 - [Lou's Pseudo 3d Page](http://www.extentofthejam.com/pseudo/)
 - [Raycasting](https://lodev.org/cgtutor/raycasting.html)
